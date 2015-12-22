@@ -77,4 +77,4 @@ See the Wiki for more information, [Serpico Meta-Language In Depth](https://gith
 
 ## Huge Thanks
 * Wouldn't exist without testing, support, and feature suggestion of the rest of the [Moosedojo team!](https://github.com/MooseDojo).
-* @d4rkd0s for the great logo work. Thanks!
+* @d4rkd0s for the great logo work. Thanks!!!
